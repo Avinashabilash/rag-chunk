@@ -89,11 +89,8 @@ To build an AI-powered system that provides **accurate answers from documents** 
 
 ### Prerequisites
 - Python 3.8+  
-- pip package manager  
-
-### Setup
-```bash
-
+- pip package manager
+  
 ### 🤝 Contributing
 
 - Fork the repository
@@ -105,4 +102,12 @@ To build an AI-powered system that provides **accurate answers from documents** 
 - Push to the branch (git push origin feature-name)
 
 - Open a Pull Request
+### Setup
+```bash
+git clone https://github.com/Avinashabilash/rag-chunk.git
+cd rag-chunk
+pip install -r requirements.txt
+
+
+
 - git clone https://github.com/Avinashabilash/rag-chunk.git
